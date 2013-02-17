@@ -1,0 +1,4 @@
+beautifulsoup
+=============
+
+beautifulsoupをつかってみた
